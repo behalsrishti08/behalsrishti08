@@ -1,7 +1,4 @@
 # Hello there! 👋
-
-## About Me
-
 I'm Srishti, your seasoned data guide with a Master's from Purdue University. 🎓 I specialize in:
 
 - Data analysis
@@ -11,6 +8,11 @@ I'm Srishti, your seasoned data guide with a Master's from Purdue University. �
 - Data visualization
 
 Fluent in SQL and Python, I'm passionate about uncovering insights and telling compelling stories through data. 📊
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/behalsrishti)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-brightgreen)]([https://www.yourwebsite.com](https://www.datascienceportfol.io/srishtibehal))
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:behalsrishti08@gmail.com)
+
 
 ## Experience
 
